@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HealthPulse CRM",
+  "description": "A specialized home healthcare CRM featuring dual-pipeline management for patient intake and referral partner relationships, integrated with Gemini for market intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
